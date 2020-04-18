@@ -10,4 +10,5 @@
 <img src='./images/img4.png' style='max-width: 100%;' />
 <p>5. Extensão ativa.</p>
 <img src='./images/img5.jpeg' style='max-width: 100%;' />
-<p>6. Accesse <a href='https://web.whatsapp.com/'>WhatsApp Web</a> e aproveite!</p>
+<p>6. Accesse <a href='https://web.whatsapp.com/'>WhatsApp Web</a>, abra algum chat com audio e aproveite!</p>
+<img src='./images/img6.png' style='max-width: 100%;' />
