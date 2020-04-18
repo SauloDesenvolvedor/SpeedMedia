@@ -1,7 +1,6 @@
-// _9tCEa
-
 const interval = setInterval(() => {
   const header = document.querySelector("._3auIg");
+
   if (header) {
     clearInterval(interval);
     localStorage.setItem("playbackRate", 1);
@@ -12,12 +11,8 @@ const interval = setInterval(() => {
 
     button.addEventListener("click", () => {
       const audio = document.querySelectorAll("audio");
-
       const styleButton = document.getElementsByClassName("twoTimesButton");
-      //   console.log(styleButton);
-
       const playbackRateCurrent = localStorage.getItem("playbackRate");
-      //   console.log(playbackRateCurrent);
 
       if (audio.length > 0) {
         audio.forEach((childItem) => {

@@ -6,7 +6,7 @@
     {
       "matches": ["https://web.whatsapp.com/"],
       "css": ["style.css"],
-      "js": ["content.js"]
+      "js": ["index.js"]
     }
   ]
 }
