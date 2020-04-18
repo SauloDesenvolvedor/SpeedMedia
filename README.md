@@ -4,4 +4,4 @@
 <img src="./images/img1.jpeg" style='max-width: 100%;' />
 <p>2. Clique com o botao direito no arquivo que foi baixado e extraía-o</p>
 <img src='./images/img2.jpeg' style='max-width: 100%;' />
-<p>3. Acesse as </p><a href="chrome://extensions/">Extensões do Chrome</a>
+<p>3. Acesse chrome://extensions </p>
